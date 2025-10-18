@@ -3,7 +3,7 @@ import { createBrowserRouter } from "react-router";
 import { RouterProvider } from "react-router/dom";
 import Root from '../pages/Book/Root/Root';
 import Navber from '../component/Navber/Navber';
-import Bannar from '../component/Bannar/Bannar';
+import Bannar from '../component/Footer/Footer';
 import ErrorPages from '../pages/Book/ErrorPages/ErrorPages';
 import Home from '../pages/Home/Home';
 

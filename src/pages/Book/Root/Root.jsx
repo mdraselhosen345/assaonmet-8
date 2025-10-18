@@ -1,14 +1,15 @@
 import React from 'react';
 import Navber from '../../../component/Navber/Navber';
 import { Outlet } from 'react-router';
-import Bannar from '../../../component/Bannar/Bannar';
+import Footer from '../../../component/Footer/Footer';
 
 const Root = () => {
     return (
         <div>
             <Navber></Navber>
-            <Bannar></Bannar>
             <Outlet></Outlet>
+            <Footer></Footer>
+            
             
             
         </div>
