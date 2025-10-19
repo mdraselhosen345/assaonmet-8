@@ -1,0 +1,290 @@
+[
+  {
+    "image": "https://i.ibb.co.com/rRWs93Vr/playstation-6689793-1280.jpg",
+    "title": "App One",
+    "companyName": "Company A",
+    "id": 1,
+    "description": "Description for app one",
+    "size": 25,
+    "reviews": 120,
+    "ratingAvg": 4.3,
+    "downloads": 15000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 5 },
+      { "name": "3 star", "count": 15 },
+      { "name": "4 star", "count": 50 },
+      { "name": "5 star", "count": 40 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/rRWs93Vr/playstation-6689793-1280.jpg",
+    "title": "App Two",
+    "companyName": "Company B",
+    "id": 2,
+    "description": "Description for app two",
+    "size": 30,
+    "reviews": 220,
+    "ratingAvg": 4.6,
+    "downloads": 25000,
+    "ratings": [
+      { "name": "1 star", "count": 8 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 70 },
+      { "name": "5 star", "count": 112 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/rRWs93Vr/playstation-6689793-1280.jpg",
+    "title": "App Three",
+    "companyName": "Company C",
+    "id": 3,
+    "description": "Description for app three",
+    "size": 15,
+    "reviews": 320,
+    "ratingAvg": 4.7,
+    "downloads": 35000,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 10 },
+      { "name": "4 star", "count": 100 },
+      { "name": "5 star", "count": 190 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/rRWs93Vr/playstation-6689793-1280.jpg",
+    "title": "App Four",
+    "companyName": "Company D",
+    "id": 4,
+    "description": "Description for app four",
+    "size": 40,
+    "reviews": 420,
+    "ratingAvg": 4.9,
+    "downloads": 45000,
+    "ratings": [
+      { "name": "1 star", "count": 3 },
+      { "name": "2 star", "count": 8 },
+      { "name": "3 star", "count": 12 },
+      { "name": "4 star", "count": 120 },
+      { "name": "5 star", "count": 277 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/rRWs93Vr/playstation-6689793-1280.jpg",
+    "title": "App Five",
+    "companyName": "Company E",
+    "id": 5,
+    "description": "Description for app five",
+    "size": 22,
+    "reviews": 180,
+    "ratingAvg": 4.1,
+    "downloads": 22000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 7 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 70 },
+      { "name": "5 star", "count": 68 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/rRWs93Vr/playstation-6689793-1280.jpg",
+    "title": "App Six",
+    "companyName": "Company F",
+    "id": 6,
+    "description": "Description for app six",
+    "size": 18,
+    "reviews": 200,
+    "ratingAvg": 4.5,
+    "downloads": 27000,
+    "ratings": [
+      { "name": "1 star", "count": 7 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 18 },
+      { "name": "4 star", "count": 80 },
+      { "name": "5 star", "count": 85 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/rRWs93Vr/playstation-6689793-1280.jpg",
+    "title": "App Seven",
+    "companyName": "Company G",
+    "id": 7,
+    "description": "Description for app seven",
+    "size": 35,
+    "reviews": 310,
+    "ratingAvg": 4.4,
+    "downloads": 38000,
+    "ratings": [
+      { "name": "1 star", "count": 6 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 25 },
+      { "name": "4 star", "count": 90 },
+      { "name": "5 star", "count": 177 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/rRWs93Vr/playstation-6689793-1280.jpg",
+    "title": "App Eight",
+    "companyName": "Company H",
+    "id": 8,
+    "description": "Description for app eight",
+    "size": 27,
+    "reviews": 275,
+    "ratingAvg": 4.2,
+    "downloads": 29000,
+    "ratings": [
+      { "name": "1 star", "count": 9 },
+      { "name": "2 star", "count": 11 },
+      { "name": "3 star", "count": 19 },
+      { "name": "4 star", "count": 75 },
+      { "name": "5 star", "count": 161 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/rRWs93Vr/playstation-6689793-1280.jpg",
+    "title": "App Nine",
+    "companyName": "Company I",
+    "id": 9,
+    "description": "Description for app nine",
+    "size": 20,
+    "reviews": 150,
+    "ratingAvg": 4.0,
+    "downloads": 17000,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 8 },
+      { "name": "3 star", "count": 22 },
+      { "name": "4 star", "count": 60 },
+      { "name": "5 star", "count": 48 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/rRWs93Vr/playstation-6689793-1280.jpg",
+    "title": "App Ten",
+    "companyName": "Company J",
+    "id": 10,
+    "description": "Description for app ten",
+    "size": 28,
+    "reviews": 360,
+    "ratingAvg": 4.8,
+    "downloads": 47000,
+    "ratings": [
+      { "name": "1 star", "count": 4 },
+      { "name": "2 star", "count": 5 },
+      { "name": "3 star", "count": 14 },
+      { "name": "4 star", "count": 100 },
+      { "name": "5 star", "count": 237 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/rRWs93Vr/playstation-6689793-1280.jpg",
+    "title": "App Eleven",
+    "companyName": "Company K",
+    "id": 11,
+    "description": "Description for app eleven",
+    "size": 32,
+    "reviews": 400,
+    "ratingAvg": 4.7,
+    "downloads": 41000,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 6 },
+      { "name": "3 star", "count": 18 },
+      { "name": "4 star", "count": 120 },
+      { "name": "5 star", "count": 251 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/rRWs93Vr/playstation-6689793-1280.jpg",
+    "title": "App Twelve",
+    "companyName": "Company L",
+    "id": 12,
+    "description": "Description for app twelve",
+    "size": 26,
+    "reviews": 280,
+    "ratingAvg": 4.3,
+    "downloads": 31000,
+    "ratings": [
+      { "name": "1 star", "count": 7 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 12 },
+      { "name": "4 star", "count": 80 },
+      { "name": "5 star", "count": 171 }
+    ]
+  },
+  {
+    "image": "https://example.com/image13.png",
+    "title": "App Thirteen",
+    "companyName": "Company M",
+    "id": 13,
+    "description": "Description for app thirteen",
+    "size": 19,
+    "reviews": 190,
+    "ratingAvg": 4.1,
+    "downloads": 21000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 8 },
+      { "name": "3 star", "count": 15 },
+      { "name": "4 star", "count": 50 },
+      { "name": "5 star", "count": 107 }
+    ]
+  },
+  {
+    "image": "https://example.com/image14.png",
+    "title": "App Fourteen",
+    "companyName": "Company N",
+    "id": 14,
+    "description": "Description for app fourteen",
+    "size": 23,
+    "reviews": 230,
+    "ratingAvg": 4.5,
+    "downloads": 26000,
+    "ratings": [
+      { "name": "1 star", "count": 9 },
+      { "name": "2 star", "count": 11 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 70 },
+      { "name": "5 star", "count": 120 }
+    ]
+  },
+  {
+    "image": "https://example.com/image15.png",
+    "title": "App Fifteen",
+    "companyName": "Company O",
+    "id": 15,
+    "description": "Description for app fifteen",
+    "size": 21,
+    "reviews": 170,
+    "ratingAvg": 4.0,
+    "downloads": 19000,
+    "ratings": [
+      { "name": "1 star", "count": 14 },
+      { "name": "2 star", "count": 7 },
+      { "name": "3 star", "count": 19 },
+      { "name": "4 star", "count": 40 },
+      { "name": "5 star", "count": 90 }
+    ]
+  },
+  {
+    "image": "https://example.com/image16.png",
+    "title": "App Sixteen",
+    "companyName": "Company P",
+    "id": 16,
+    "description": "Description for app sixteen",
+    "size": 29,
+    "reviews": 320,
+    "ratingAvg": 4.6,
+    "downloads": 35000,
+    "ratings": [
+      { "name": "1 star", "count": 8 },
+      { "name": "2 star", "count": 9 },
+      { "name": "3 star", "count": 16 },
+      { "name": "4 star", "count": 100 },
+      { "name": "5 star", "count": 187 }
+    ]
+  }
+]
