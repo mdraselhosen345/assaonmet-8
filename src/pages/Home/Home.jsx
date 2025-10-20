@@ -13,8 +13,7 @@ const Home = () => {
          <Bannar></Bannar>
          <Titel></Titel>
          <Title2></Title2>
-    
-             <Card></Card>  
+         <Card></Card>  
          
         </div>
     );
